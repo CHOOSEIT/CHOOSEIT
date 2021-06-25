@@ -34,6 +34,7 @@ Github: (here) 📈
 # Private Repositories
 ### ElytraRacing
 ElytraRacing is a Minecraft plugin. More information here: https://chooseit.io/elytraracing
+
 Why private ? ElytraRacing is a premium plugin.
 
 ### A lot of stupid stuff
