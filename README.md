@@ -17,21 +17,27 @@ Today I would like to go into artificial intelligence and neural networks, where
 
 # Programming Languages ⚙️
 
-Most of the time I code in Java, but I can manage in C/C++ and I feel comfortable in Python.
+❤❤❤    
 
-I'm not excellent with SQL, but I love this language.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-Web Dev ? NO GOD! PLEASE NO!!! 😳
+❤❤   
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+
+❤ 
+
+![JavaScript](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+💔
+
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=whit)
 
 # Socials
 
-Youtube: https://chooseit.io/youtube
+[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://chooseit.io/twitter) [![YouTube Channel Subscribers](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://chooseit.io/youtube) [![GitHub followers](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee)](https://chooseit.io/github)
 
-Twitter: https://chooseit.io/twitter
-
-Github: (here) 📈
-
-# Private Repositories
+# Private Repositories 🧐
 ### ElytraRacing
 ElytraRacing is a Minecraft plugin. More information here: https://chooseit.io/elytraracing
 
