@@ -13,8 +13,6 @@ Today I would like to go into artificial intelligence and neural networks, where
 
 [![CHOOSEIT's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOOSEIT&count_private=true&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitors](https://komarev.com/ghpvc/?username=CHOOSEIT&label=Visitors)
-
 # Programming Languages ⚙️
 
 ❤❤❤    
