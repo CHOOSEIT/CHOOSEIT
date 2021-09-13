@@ -1,6 +1,6 @@
 #  Hi 👋, I'm CHOOSEIT 🐸 
 
-I'm 17, I love learning new things. I started programming at 13 years old.
+I'm 18, I love learning new things. I started programming at 13 years old.
 
 I’m trying to create things with my keyboard.
 
@@ -31,7 +31,7 @@ Today I would like to go into artificial intelligence and neural networks, where
 ### ElytraRacing
 ElytraRacing is a Minecraft plugin. More information here: https://chooseit.io/elytraracing
 
-Why private ? ElytraRacing is a premium plugin.
+Why private ? ElytraRacing is a paid product.
 
 ### A lot of stupid stuff
 Yes.
